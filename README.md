@@ -1,4 +1,3 @@
-# Transformer Architecture Experiments
 # Eksperimen Arsitektur Transformer untuk Klasifikasi dan Regresi
 **Maulana Seno Aji Yudhantara — 152022065**
 
