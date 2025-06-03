@@ -32,6 +32,6 @@ Tujuan eksperimen adalah:
 
 ---
 
-> Dibuat dan dieksperime+nkan oleh Maulana Seno Aji Yudhantara  
+> Dibuat dan dieksperimenkan oleh Maulana Seno Aji Yudhantara  
 > NRP: 152022065 | DEEP LEARNING Semester Genap 2024/2025
 
